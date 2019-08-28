@@ -8,9 +8,9 @@ logging.level:
   org.superbiz.moviefun: DEBUG
 
 s3:
-  accessKey: MSQA25IV0O4NZ3FQOMRC
-  secretKey: ttXg9647azEOX1I29RVXwSJ4W+IxZyZrqe2Vwc7X
-  bucketName: moviefun
+  accessKey: 0
+  secretKey: 0
+  bucketName: 0
 
 albums:
   url: http://localhost:8081/albums
